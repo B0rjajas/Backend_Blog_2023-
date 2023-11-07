@@ -30,7 +30,7 @@ import os
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'mi_secret_key_segura_y_larga_1234567890'
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:la1la2la3@localhost:3306/basededatosdb'
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://h5kl16pn3nxaxnch:l3ditv2lfbw8328x@esilxl0nthgloe1y.chr7pe7iynqr.eu-west-1.rds.amazonaws.com:3306/a82jlv898d1q3xxz'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://g8lnod0ibpvszmuw:uj2frfc91kaz6bnh@bmlx3df4ma7r1yh4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/ujaqz3w25wtt4t6e'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 
 # Configura el ID de cliente de Google desde las variables de entorno
